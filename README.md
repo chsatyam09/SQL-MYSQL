@@ -1,2 +1,4 @@
-# SQL-MYSQL
-Welcome to the SQL and MySQL  repository!  SQL (Structured Query Language) is a powerful programming language used for managing relational database management systems (RDBMS). With SQL, we can efficiently retrieve, manipulate, and manage data stored in databases , And MySQL is a relational database management system that uses SQL.
+# DBMS Learning Journey (SQL  MYSQL)
+
+Welcome to my DBMS Learning Journey repository! This repository contains my notes and practice files related to Database Management Systems (DBMS), including SQL and MySQL. 
+
